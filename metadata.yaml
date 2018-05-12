@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '8632'
     url: http://www.gutenberg.org/2009/agents/8632
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19379#The-Leicestershires-beyond-Baghdad
 gutenberg_bookshelf: World War I
 gutenberg_issued: '2006-09-26'
 gutenberg_type: Text
