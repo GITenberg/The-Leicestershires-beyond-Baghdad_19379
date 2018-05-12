@@ -1,0 +1,27 @@
+_repo: The-Leicestershires-beyond-Baghdad_19379
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Thompson, Edward John
+    birthdate: 1886
+    deathdate: 1946
+    gutenberg_agent_id: '8632'
+    url: http://www.gutenberg.org/2009/agents/8632
+description: ''
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2006-09-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19379'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Campaigns -- Iraq'
+- !lcc 'D501'
+title: The Leicestershires beyond Baghdad
+url: http://www.gutenberg.org/ebooks/19379
